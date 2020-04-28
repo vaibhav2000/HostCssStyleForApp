@@ -1,3 +1,7 @@
+body{
+ background-color: black;
+}
+
 .active-users-panel {
   width: 300px;
   height: 100%;
@@ -13,3 +17,4 @@
   border-radius: 5px;
   width: 300px;
 }
+
